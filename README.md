@@ -16,8 +16,13 @@ HTML
 
  ##  Tourism agency:D fictitious
 
+**home page**
 ![Initial page](https://github.com/IvanCarlota/JM-Viagens/blob/master/imagens/public/readme/1.png)
+
+**About**
 ![Initial page](https://github.com/IvanCarlota/JM-Viagens/blob/master/imagens/public/readme/2.png)
+
+**Contact**
 ![Initial page](https://github.com/IvanCarlota/JM-Viagens/blob/master/imagens/public/readme/3.png)
 
 
